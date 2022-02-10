@@ -12,7 +12,7 @@ namespace Lab_2_3
         {
             Console.WriteLine("My Name");
             string name = Console.ReadLine();
-            Console.WriteLine("Hello, " + name);
+            Console.WriteLine("Hello, " + name+ "!");
             Console.ReadKey();
         }
     }
